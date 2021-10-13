@@ -1,0 +1,2 @@
+# MergeEventDetection
+Get_Mergeable_Lambdaを呼び出す。
